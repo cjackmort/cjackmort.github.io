@@ -1,7 +1,7 @@
 # Scott Mortensen Fine Arts — Website Project
 
 ## Overview
-This is the source code for **scottmortensenfinearts.com**, a personal fine arts website hosted on GitHub Pages. The site is owned by Scott Mortensen and managed by Jack Mortensen (cjackmort@gmail.com).
+This is the source code for **scottmortensenfinearts.com**, a personal fine arts website hosted on GitHub Pages.
 
 The site is live at:
 - https://scottmortensenfinearts.com
